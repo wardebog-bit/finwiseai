@@ -6,7 +6,7 @@ import {
 import { createClient } from "@supabase/supabase-js";
 
 // ✅ Reemplaza con tus credenciales de Supabase
-const SUPABASE_URL = "https://ayktqybzvvvlxoyxsjko.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://ayktqybzvvvlxoyxsjko.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF5a3RxeWJ6dnZ2bHhveXhzamtvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcyMjI2MDIsImV4cCI6MjA5Mjc5ODYwMn0.Jf0nZg8KJjpnD-5As5TRMubkcwZVlX9z1MpWDSbxPIk";
 const API_URL = "https://finwiseai-backend-production.up.railway.app";
 
